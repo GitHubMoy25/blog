@@ -7,7 +7,7 @@ description: "每个胜利背后都有许多尝试"
 keyword: "潜水, 再潜水"
 url: "http://githubmoy25.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/githubmoy25/githubmoy25.github.io.git" # you code repository
+github_repo: "https://github.com/GitHubMoy25/blog.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
